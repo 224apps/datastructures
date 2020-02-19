@@ -21,7 +21,7 @@ class Queue(object):
 
 class StackWithQueues:
     def __init__(self):
-        self.Q1 = Queue()
+        self.Q1 = Queue() 
         self.Q2 = Queue()
 
     def isEmpty(self):
